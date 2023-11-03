@@ -26,6 +26,8 @@ Here are some ideas to get you started:
  
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E12F7&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Katren+Mikhael;welcome+to+my+profile+;I'm+Full+Stack+Laravel++Developer)](https://git.io/typing-svg)
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=shahdkhawaldeh1&count_private=true&theme=solarized-light&hide_border=true" alt = "shahdkhawadeh1's Contribution" width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=shahdkhawaldeh1&count_private=true&theme=solarized-light&hide_border=true" alt = "shahdkhawadeh1's Rating" width = 400 >
