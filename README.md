@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center"> About Me </h1>
 👋 I am Shahd Khawaldeh
 💻 A Computer Engineering student at Birzeit University
-⚡Code architect with a passion for turning caffeine into elegant, efficient solutions and a knack for turning bugs into features. 🚀💻 #CodeMagician"
-🌱 Embarking on a robust journey, diving deep into the realms of React JS mastery and crafting compelling experiences through UX/UI design. 🚀💡 #ReactJS #UIUXExplorer
+⚡Code architect with a passion for turning caffeine into elegant, efficient solutions and a knack for turning bugs into features. 🚀💻 
+🌱 Embarking on a robust journey, diving deep into the realms of React JS mastery and crafting compelling experiences through UX/UI design. 🚀💡 
 
 <br />
 
