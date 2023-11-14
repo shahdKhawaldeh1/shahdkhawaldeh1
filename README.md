@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 👋 I am Shahd Khawaldeh
 💻 A Computer Engineering student at Birzeit University
 ⚡Code architect with a passion for turning caffeine into elegant, efficient solutions and a knack for turning bugs into features. 🚀💻 
-🌱 Embarking on a robust journey, diving deep into the realms of React JS mastery and crafting compelling experiences through UX/UI design. 🚀💡 
+🌱 Embarking on a robust journey, diving deep into the realms of React JS and crafting compelling experiences through UX/UI design. 🚀💡 
 
 <br />
 
